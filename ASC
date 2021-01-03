@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T12:03:05.948Z" agent="5.0 (Windows)" etag="0-SE2LUkQUcR3KoRVRIl" version="14.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-03T12:06:45.354Z" agent="5.0 (Windows)" etag="rhWCXfW9w2XGsWAmNhh7" version="14.1.8" type="github" pages="3">
   <diagram id="vGcbJ8aO3-knJHwsBqqr" name="内存分配以及一维拓扑">
     <mxGraphModel dx="1254" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -428,12 +428,6 @@
         </mxCell>
         <mxCell id="2d7BNoCabpZTZfbR-CW1-0" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;strokeColor=#000000;gradientColor=none;" vertex="1" parent="neYxeOlP1BNOMpKssyVE-1">
           <mxGeometry x="542.5" y="175" width="120" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="neYxeOlP1BNOMpKssyVE-2" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="neYxeOlP1BNOMpKssyVE-1">
-          <mxGeometry x="40" y="203.75" width="160" height="206.25" as="geometry" />
-        </mxCell>
-        <mxCell id="neYxeOlP1BNOMpKssyVE-3" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="neYxeOlP1BNOMpKssyVE-1">
-          <mxGeometry x="30" y="638.75" width="120" height="201.25" as="geometry" />
         </mxCell>
         <mxCell id="neYxeOlP1BNOMpKssyVE-52" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="neYxeOlP1BNOMpKssyVE-1">
           <mxGeometry x="570" y="200" width="60" height="140" as="geometry" />
