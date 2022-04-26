@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T04:09:14.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.34 Safari/537.36 Edg/101.0.1210.19" etag="q445DSXZzcmuzawyXdB8" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-26T01:05:36.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.26" etag="RyspYhS6UExYksaq5ZAm" version="17.4.6" type="github" pages="4">
   <diagram id="ZuQBYf5kgyzLH0db0-L4" name="整体架构">
     <mxGraphModel dx="782" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,10 +315,10 @@
         <mxCell id="bGaJZsRMUBGL7sfcEADn-35" value="收到大部分节点的选票" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=宋;" parent="1" vertex="1">
           <mxGeometry x="528" y="120" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bGaJZsRMUBGL7sfcEADn-36" value="收到term&lt;br style=&quot;font-size: 15px;&quot;&gt;更高的请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=宋;" parent="1" vertex="1">
+        <mxCell id="bGaJZsRMUBGL7sfcEADn-36" value="收到任期&lt;br style=&quot;font-size: 15px&quot;&gt;更高的请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=宋;" parent="1" vertex="1">
           <mxGeometry x="414" y="330" width="111" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bGaJZsRMUBGL7sfcEADn-37" value="收到term&lt;br style=&quot;font-size: 15px;&quot;&gt;更高的请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=宋;" parent="1" vertex="1">
+        <mxCell id="bGaJZsRMUBGL7sfcEADn-37" value="收到任期&lt;br style=&quot;font-size: 15px&quot;&gt;更高的请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=宋;" parent="1" vertex="1">
           <mxGeometry x="213" y="330" width="111" height="30" as="geometry" />
         </mxCell>
       </root>
